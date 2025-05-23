@@ -29,7 +29,7 @@ spectrogram-app
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/spectrogram-app.git
+   git clone https://github.com/Coffet/spectrogram-app.git
    ```
 2. Navigate to the project directory:
    ```
