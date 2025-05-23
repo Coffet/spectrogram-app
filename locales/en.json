@@ -1,0 +1,22 @@
+{
+  "title": "2D Spectrogram Viewer",
+  "uploadAudio": "Upload Audio File",
+  "play": "Play",
+  "pause": "Pause",
+  "stop": "Stop",
+  "bpmLabel": "BPM:",
+  "bpmIdentify": "Identify BPM",
+  "language": "Language",
+  "english": "English",
+  "traditionalChinese": "Traditional Chinese",
+  "loading": "Loading...",
+  "error": {
+    "fileNotSupported": "File type not supported. Please upload an audio file.",
+    "bpmAnalysisFailed": "Failed to analyze BPM. Please try again."
+  },
+  "instructions": {
+    "upload": "Please upload an audio file to get started.",
+    "playback": "Use the play, pause, and stop buttons to control audio playback.",
+    "bpm": "Click 'Identify BPM' to analyze the audio for beats per minute."
+  }
+}

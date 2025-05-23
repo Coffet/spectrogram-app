@@ -1,0 +1,16 @@
+{
+  "title": "聲譜圖應用",
+  "uploadAudio": "上傳音頻",
+  "play": "播放",
+  "pause": "暫停",
+  "stop": "停止",
+  "bpm": "每分鐘節拍 (BPM)",
+  "analyze": "分析音頻",
+  "loading": "加載中...",
+  "noAudio": "請上傳音頻文件以開始",
+  "error": "發生錯誤，請重試",
+  "language": "語言",
+  "settings": "設置",
+  "help": "幫助",
+  "about": "關於"
+}
